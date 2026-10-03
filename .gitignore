@@ -1,0 +1,20 @@
+# Visual Studio
+.vs/
+**/.vs/
+
+# Compilados de .NET
+**/bin/
+**/obj/
+
+# Archivos locales de usuario
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Logs
+*.log
+
+# Archivos temporales
+*.tmp
+*.temp
